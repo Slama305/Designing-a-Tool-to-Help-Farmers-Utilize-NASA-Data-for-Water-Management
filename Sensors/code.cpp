@@ -2,8 +2,8 @@
 #include <FirebaseESP32.h>
 
 // Firebase credentials
-#define FIREBASE_HOST "your-firebase-database.firebaseio.com"
-#define FIREBASE_AUTH "your-firebase-auth-token"
+#define FIREBASE_HOST "https://nasa-backend-default-rtdb.firebaseio.com"
+#define FIREBASE_AUTH "0MbfV5xtV8H7byp1OLsMSgx4R4wmTSYHuvXUhsrJ"
 #define WIFI_SSID "your-wifi-ssid"
 #define WIFI_PASSWORD "your-wifi-password"
 
